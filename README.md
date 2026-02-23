@@ -6,7 +6,7 @@ This project is a reinforcement learning environment for **The Binding of Isaac:
 
 ---
 
-## ❗ This projet now in development phase 
+## ❗ This project is currently under development
 
 ---
 
