@@ -6,6 +6,10 @@ This project is a reinforcement learning environment for **The Binding of Isaac:
 
 ---
 
+# ❗ This projet now in development phase 
+
+
+
 ## ✨ Features
 
 - **Real-time screen capture** – uses `mss` for fast, efficient grabbing of the game window.
